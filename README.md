@@ -22,3 +22,7 @@ Canny边缘检测
 
 Haar级联分类人脸检测
 
+## 一些概念
+** Gradient **  梯度
+** Magnitude ** 梯度幅值
+** Direction ** 梯度方向
