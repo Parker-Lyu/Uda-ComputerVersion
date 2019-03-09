@@ -25,6 +25,6 @@ Haar级联分类人脸检测
 ## 一些概念
 **Gradient**  梯度
 
-**Magnitude** 梯度幅值
+**Magnitude** 梯度幅值:sobelx 和 sobely 的平方和的平方根
 
-**Direction** 梯度方向
+**Direction** 梯度方向：1/tan(sobley/soblex)
