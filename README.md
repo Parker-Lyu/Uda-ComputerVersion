@@ -37,3 +37,5 @@ Kmeans在图像中的应用
 **Magnitude** 梯度幅值:sobelx 和 sobely 的平方和的平方根
 
 **Direction** 梯度方向：1/tan(sobley/soblex)
+
+**ORB** Oriented Fast and Rotated Brief，Fast和Brief分别是特征检测和向量创建算法，该算法不受噪音及图像旋转影响
