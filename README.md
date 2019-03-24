@@ -36,6 +36,13 @@ ORB详解及使用
 
 HOG特征检测详解
 
+### 4-pytorch基本操作
+复习了官网一些基本操作，以及部分Uda的练习题
+
+定义网络、训练、保存加载模型、迁移学习
+
+### 5-CNN Layers
+完整的网络，及特征可视化
 
 
 ## 一些概念
@@ -46,3 +53,5 @@ HOG特征检测详解
 **Direction** 梯度方向：1/tan(sobley/soblex)
 
 **ORB** Oriented Fast and Rotated Brief，Fast和Brief分别是特征检测和向量创建算法，该算法不受噪音及图像旋转影响
+
+
