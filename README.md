@@ -3,6 +3,8 @@
 
 #### 官方课内作业文档
 https://github.com/udacity/CVND_Exercises
+#### 项目1地址
+
 
 ## 目录结构
 ### 1-基础
@@ -43,6 +45,9 @@ HOG特征检测详解
 
 ### 5-CNN Layers
 完整的网络，及特征可视化
+
+### 6-P1，脸部关键点检测
+[官方git地址](https://github.com/udacity/P1_Facial_Keypoints)
 
 
 ## 一些概念
