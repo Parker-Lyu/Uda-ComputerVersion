@@ -49,6 +49,10 @@ HOG特征检测详解
 ### 6-P1，脸部关键点检测
 [官方git地址](https://github.com/udacity/P1_Facial_Keypoints)
 
+### 7-经典网络源码解读
+写代码的时候发现，自己的网络实现能力有点差，对经典网络的理解亦不够深入准确，所以比对着torchvision的源码，自己手写一边经典网络的源码，以达复习、提高之用
+
+官网源码地址 https://github.com/pytorch/vision/tree/master/torchvision/models
 
 ## 一些概念
 **Gradient**  梯度
