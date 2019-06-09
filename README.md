@@ -54,6 +54,15 @@ HOG特征检测详解
 
 官网源码地址 https://github.com/pytorch/vision/tree/master/torchvision/models
 
+### 8-LSTM-Pytorch
+pytorch实现的一些简单的RNN模型，包括word embeding，RNN实现等，Pytorh官网上有带注意力模型的翻译例子，如果需要，可以自查
+
+### 9-transformer
+可选章节对transformer的介绍以及一些图片
+
+### 10-P2 项目，图片描述
+
+
 ## 一些概念
 **Gradient**  梯度
 
